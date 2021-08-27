@@ -39,9 +39,9 @@ class Game
         // only show the stats that have changed
         $changes = $player->statChanges();
         if (count($changes) > 0) {
-            $this->ui->display("| $player->name:");
+            $this->ui->display("* $player->name:");
             foreach ($changes as $change) {
-                $this->ui->display("|   " . $change->type . ": " . $change->value);
+                $this->ui->display("-   " . $change->type . ": " . $change->value);
             }
         }
         $player->saveStats();
