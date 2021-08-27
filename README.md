@@ -1,5 +1,4 @@
 # eMag_hero
-To play just run this command in the console: php index.php
 
 The story
 Once upon a time there was a great hero, called Orderus, with some strengths and weaknesses,
@@ -72,3 +71,4 @@ new skill easily be added to our hero?
 
 ● There’s no time limit, take your time for the best approach you can think of
 
+To play just run this command in the console: php index.php
