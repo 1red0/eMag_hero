@@ -6,6 +6,7 @@ Once upon a time there was a great hero, called Orderus, with some strengths and
 as all heroes have.
 After battling all kinds of monsters for more than a hundred years, Orderus now has the
 following stats:
+
 ● Health: 70 - 100
 
 ● Strength: 70 - 80
